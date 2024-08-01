@@ -5,6 +5,6 @@
 #
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlonvaleriano&show_icons=true&theme=midnight-purple&hide_border=true&locale=en&layout=compact" alt="marlonvaleriano" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonvaleriano&theme=midnight-purple&show_icons=true&locale=en" alt="marlonvaleriano" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonvaleriano&theme=midnight-purple&show_icons=true&&hide_border=true&locale=en" alt="marlonvaleriano" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlonvaleriano&theme=midnight-purple&" alt="marlonvaleriano" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlonvaleriano&theme=midnight-purple&hide_border=true" alt="marlonvaleriano" /></p>
